@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1767459629 source:c:\kuliah\semester 3\struktur data\remedial\remedi\main.cpp
+	<iostream>
+	"stack.h"
+
+1767459491 c:\kuliah\semester 3\struktur data\remedial\remedi\stack.h
+	<string>
+
